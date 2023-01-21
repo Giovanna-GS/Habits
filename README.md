@@ -28,7 +28,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar acompanhar seus hábitos.
+O Habits é um app para ajudar acompanhar seus hábitos.<br>
+--> Para visualizar o projeto [CLIQUE AQUI](https://giovanna-gs.github.io/Habits/)
 
 
 ## 🔖 Layout
